@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AlexGuang/backbonejs/issues"
   },
-  "homepage": "https://github.com/AlexGuang/backbonejs#readme"
+  "homepage": "https://github.com/AlexGuang/backbonejs#readme",
+  "dependencies": {
+    "backbone": "^1.4.1"
+  }
 }
