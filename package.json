@@ -1,0 +1,19 @@
+{
+  "name": "backbonejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backbone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexGuang/backbonejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexGuang/backbonejs/issues"
+  },
+  "homepage": "https://github.com/AlexGuang/backbonejs#readme"
+}
